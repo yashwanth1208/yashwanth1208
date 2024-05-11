@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yashwanth Sai</h1>
 <h3 align="center">A passionate FullStack Developer from India.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 🌱 I’m currently learning **Spring Boot**
 
