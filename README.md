@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, BlockChain, Web3**
 
 - 📫 How to reach me **www.sai1929@gmail.com**
 
