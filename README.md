@@ -3,15 +3,15 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🌱 I’m currently learning **Spring Boot**
+- 🌱 I’m currently learning **Rust🦀**
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 💬 Ask me about **MERN, BlockChain, Web3**
+- 💬 Ask me about **BlockChain, Web3, ML**
 
 - 📫 How to reach me **www.sai1929@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1byPNxRtGnPtF91JF600NGRlut1JmzF_T/view?usp=drive_link](https://drive.google.com/file/d/1byPNxRtGnPtF91JF600NGRlut1JmzF_T/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14v0tBHEdMvUjlB8CpapA1nyLdolu3rdB/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
