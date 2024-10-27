@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **yashwanth1208@icloud.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/14v0tBHEdMvUjlB8CpapA1nyLdolu3rdB/view?usp=drive_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yash_1208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash_1208" height="30" width="40" /></a>
